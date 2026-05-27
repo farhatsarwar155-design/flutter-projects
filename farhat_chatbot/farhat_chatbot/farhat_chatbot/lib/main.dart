@@ -645,7 +645,7 @@ class ChatScreenState extends State<ChatScreen> with TickerProviderStateMixin {
   File? selectedImage;
   String chatTitle = "";
 
-  final String apiKey = "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";
+  final String apiKey = "gsk Your API Key here";
 
   late AnimationController _typingAnimationController;
   late AnimationController _sendButtonController;
